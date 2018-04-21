@@ -1,4 +1,4 @@
-package com.mkyong.basicwebcrawler;
+package com.lakeholmz.crawler;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
